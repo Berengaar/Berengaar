@@ -1,6 +1,6 @@
 
 
-### Hi friends :hand:, I'm Emirhan Avcı :smiley: I'm a
+### Hi friends :hand:, I'm Emirhan Avcı :smiley: I'm a Full Stack Developer
 
 ## .NET CORE || REACT || Electrical Electronics Engineer
 #### Uludag University
