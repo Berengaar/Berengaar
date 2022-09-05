@@ -2,7 +2,7 @@
 
 ### Hi friends :hand:, I'm Emirhan Avcı :smiley: I'm a
 
-## .NET DEVELOPER || Electrical Electronics Engineer
+## .NET CORE || REACT || Electrical Electronics Engineer
 #### Uludag University
 
 <font color="green">What are you coding ?</font>
