@@ -24,8 +24,15 @@
 <hr>
 
 ### Tech I Use
-<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="Icons/dotnet.png" /></a>
 <a href="http://csharp.net/" title="C#"><img src="Icons/csharp.png" /></a>
+<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="Icons/dotnet.png" /></a>
+<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="Icons/dotnet.png" /></a>
+<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="Icons/git.png" /></a>
+<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="Icons/javascript.png" /></a>
+<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="Icons/typescript.png" /></a>
+<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="Icons/react.png" /></a>
+<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="Icons/vscode.png" /></a>
+
 
 <br>
 
