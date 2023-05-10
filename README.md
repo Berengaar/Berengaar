@@ -24,9 +24,8 @@
 <hr>
 
 ### Tech I Use
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="c" width="25" height="25" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/31b590019f55c0a77f257058375913c8acf475ce/icons/html5.svg" alt="c" width="25" height="25" style="max-width: 100%"><img  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="c" width="25" height="25" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/31b590019f55c0a77f257058375913c8acf475ce/icons/css3.svg" alt="c" width="25" height="25" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="c" width="25" height="25" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" alt="c" width="25" height="25" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
- alt="c" width="25" height="25" style="max-width: 100%; ">
+<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
+<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
 
 <br>
 
