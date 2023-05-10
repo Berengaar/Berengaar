@@ -21,10 +21,6 @@
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/31b590019f55c0a77f257058375913c8acf475ce/icons/css3.svg" alt="c" width="25" height="25" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="c" width="25" height="25" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" alt="c" width="25" height="25" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
  alt="c" width="25" height="25" style="max-width: 100%; ">
 
-# Latest Blog Posts
-<!--BLOG POST-LIST:START-->
-<!--BLOG POST-LIST:END-->
-
 <br>
 
 [instagram]:https://www.instagram.com/emirhan_avci_/
