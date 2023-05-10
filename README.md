@@ -1,8 +1,7 @@
 
 
 ### Hi friends :hand:, I'm Emirhan Avcı :smiley: I'm a Full Stack Developer
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
+
 ## .NET CORE || REACT || Electrical Electronics Engineer
 
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="200">
