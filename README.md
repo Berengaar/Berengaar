@@ -3,6 +3,8 @@
 ### Hi friends :hand:, I'm Emirhan Avcı :smiley: I'm a Full Stack Developer
 
 ## .NET CORE || REACT || Electrical Electronics Engineer
+
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 #### Uludag University
 
 <font color="green">What are you coding ?</font>
