@@ -26,16 +26,6 @@
 <!--BLOG POST-LIST:END-->
 
 <br>
-<details>
-<summary>:bulb:Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=Berengaar&theme=tokyonight ">
-</details>
-
-<details>
-<summary>:bulb:Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berengaar&layout=compact">
-</details>
-
 
 [instagram]:https://www.instagram.com/emirhan_avci_/
 [linkedin]:https://www.linkedin.com/in/emirhan-avci/
