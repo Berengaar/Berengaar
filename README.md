@@ -24,8 +24,8 @@
 <hr>
 
 ### Tech I Use
-<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
-<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
+<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="Icons/dotnet.png" /></a>
+<a href="http://csharp.net/" title="C#"><img src="Icons/csharp.png" /></a>
 
 <br>
 
