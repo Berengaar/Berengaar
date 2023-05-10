@@ -9,8 +9,15 @@
 
 ### Reach out to me 
 
-<img height="22" width="32" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" />[instagram]
-<img height="22" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />[linkedin]
+<p>
+ <a href="https://www.linkedin.com/in/emirhan-avci/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+ </a>
+ <a href="https://www.linkedin.com/in/emirhan-avci/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+ </a> 
+ <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25>
+ </a>
+</p>
 
 
 
