@@ -4,7 +4,8 @@
 
 ## .NET CORE || REACT || Electrical Electronics Engineer
 
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="1000">
+ 
 #### Uludag University
 
 <font color="green">What are you coding ?</font>
